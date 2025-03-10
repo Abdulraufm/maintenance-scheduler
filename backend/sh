@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Upload backend files"
+git branch -M main
+git remote add origin https://github.com/Abdulraufm/maintenance-scheduler.git
+git push -u origin main
