@@ -1,0 +1,15 @@
+maintenance-scheduler/
+
++-- backend/
+
+¦   +-- server.js
+
+¦   +-- package.json
+
++-- frontend/
+
+¦   +-- src/
+
+¦   ¦   +-- App.js
+
+¦   +-- package.json
